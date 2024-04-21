@@ -46,3 +46,7 @@ The design of the OEL Temperature Control System is suitable for various applica
 # Proteus Simulation
 ![image](https://github.com/Alihassan7212/Temperature-Control-and-Energy-Monitoring-System/assets/93111418/f97b2776-7205-4dd2-ad67-596ca224c36d)
 
+# What if
+
+Okay so we are receiving the data on cloud. we can use that information to feed the RL agent and then RL angent will predict the next action (On/off or set temperature) to the controller the benefit is that we can store the ocupancy and sleeping patterns already in the cloud plus the weather data is already cnin==oming from an online source so we already have all the information stored in the clouad we just need current temperature, humidy ot any other thing we want to measure to control the temperature intelliently.
+
